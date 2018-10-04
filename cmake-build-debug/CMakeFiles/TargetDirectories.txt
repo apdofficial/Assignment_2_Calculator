@@ -1,0 +1,8 @@
+/Users/andrejpistek/Documents/Dokumenty/Saxion (Applied Science)/LED (ETI 2)/Quarter 1/Software Engineering/Assignment_2_Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrejpistek/Documents/Dokumenty/Saxion (Applied Science)/LED (ETI 2)/Quarter 1/Software Engineering/Assignment_2_Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrejpistek/Documents/Dokumenty/Saxion (Applied Science)/LED (ETI 2)/Quarter 1/Software Engineering/Assignment_2_Calculator/cmake-build-debug/CMakeFiles/test.dir
+/Users/andrejpistek/Documents/Dokumenty/Saxion (Applied Science)/LED (ETI 2)/Quarter 1/Software Engineering/Assignment_2_Calculator/cmake-build-debug/CMakeFiles/Assignment_2_Calculator.dir
+/Users/andrejpistek/Documents/Dokumenty/Saxion (Applied Science)/LED (ETI 2)/Quarter 1/Software Engineering/Assignment_2_Calculator/cmake-build-debug/lib/googletest/CMakeFiles/rebuild_cache.dir
+/Users/andrejpistek/Documents/Dokumenty/Saxion (Applied Science)/LED (ETI 2)/Quarter 1/Software Engineering/Assignment_2_Calculator/cmake-build-debug/lib/googletest/CMakeFiles/edit_cache.dir
+/Users/andrejpistek/Documents/Dokumenty/Saxion (Applied Science)/LED (ETI 2)/Quarter 1/Software Engineering/Assignment_2_Calculator/cmake-build-debug/lib/googletest/CMakeFiles/gtest_main.dir
+/Users/andrejpistek/Documents/Dokumenty/Saxion (Applied Science)/LED (ETI 2)/Quarter 1/Software Engineering/Assignment_2_Calculator/cmake-build-debug/lib/googletest/CMakeFiles/gtest.dir
